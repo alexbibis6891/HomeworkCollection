@@ -14,9 +14,6 @@ public class Novels extends Books {
         return genre;
     }
 
-    public void setGenre(String genre) {
-        this.genre = genre;
-    }
 
     public void printBooks(){
         super.printBooks();

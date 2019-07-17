@@ -13,9 +13,6 @@ public class ArtBooks extends Books {
         return paperQuality + " paper quality";
     }
 
-    public void setPaperQuality(String paperQuality) {
-        this.paperQuality = paperQuality;
-    }
 
     public void printBooks(){
         super.printBooks();

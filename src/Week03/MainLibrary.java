@@ -16,7 +16,7 @@ public class MainLibrary {
 
         List<Books> BookList = new ArrayList<>();
 
-       // Books a =
+
         BookList.add(new Novels("Harry Potter and the Delicious Afterbirth", 258, "Fantasy"));
         BookList.add(new Novels("Lord of the Flies Away", 154, "Adventure"));
         BookList.add(new Novels("Satanic bible", 665, "Fantasy"));
