@@ -27,7 +27,6 @@ public class MainLibrary {
         BookList.add(new ArtBooks("Paintings to claw your eyes out", 69, "Avarage"));
         BookList.add(new ArtBooks("What is an Art Book anyway?", 2, "Poor"));
 
-      //  Books.add(a);
 
         String option = "";
         option = sc.next();
@@ -42,9 +41,7 @@ public class MainLibrary {
                         BookList.get(i).printBooks();
                     }
 
-                    //       for (Books book : BookList) {
-                    //           book.printBooks();
-                    //       }
+
                     break;
                 case ("2"):
                     System.out.println("Ce carte vrei sa introduci? novel sau art book?");
