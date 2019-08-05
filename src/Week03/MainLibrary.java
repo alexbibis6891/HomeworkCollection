@@ -42,9 +42,6 @@ public class MainLibrary {
                         BookList.get(i).printBooks();
                     }
 
-                    //       for (Books book : BookList) {
-                    //           book.printBooks();
-                    //       }
                     break;
                 case ("2"):
                     System.out.println("Ce carte vrei sa introduci? novel sau art book?");
